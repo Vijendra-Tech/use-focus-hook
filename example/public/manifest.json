@@ -1,0 +1,8 @@
+{
+  "short_name": "@vijendra.rana/use-sample-hook",
+  "name": "@vijendra.rana/use-sample-hook",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
