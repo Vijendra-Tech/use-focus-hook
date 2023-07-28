@@ -1,6 +1,6 @@
 {
   "name": "@vijendra.rana/use-sample-hook",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "It is just for practice purpose",
   "author": "Vijendra-Tech",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.9.0"
+    "react": ">=16.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
